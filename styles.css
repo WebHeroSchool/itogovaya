@@ -6,6 +6,10 @@
   padding: 60px 130px;
 }
 
+.main {
+  padding-top: 10px;
+}
+
 .main_title {
   font: 45px/55px arial, helvetica, sans-serif;
   color: #ffffff;
