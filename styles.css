@@ -1,0 +1,22 @@
+.header, .main {
+  background: #3030C1;
+}
+
+.header {
+  padding: 60px 130px;
+}
+
+.main_title {
+  font: 45px/55px arial, helvetica, sans-serif;
+  color: #ffffff;
+}
+
+.main_subtitle {
+  font: 30px/37px arial, helvetica, sans-serif;
+  color: #ffcc33;
+}
+
+.main_text {
+  font: 20px/23px arial, helvetica, sans-serif;
+  color: #ffffff;
+}
