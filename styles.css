@@ -1,26 +1,51 @@
-.header, .main {
-  background: #3030C1;
+.body {
+  margin: 0;
 }
 
 .header {
+  background: #3030C1;
   padding: 60px 130px;
 }
 
-.main {
-  padding-top: 10px;
+.logo {
+  background: no-repeat url('img/Logo.svg');
+  padding: 30px 0;
+}
+
+.section {
+  background: #3030C1;
+}
+
+.section_main {
+  padding: 62px 41% 190px 135px;
+  background: top right no-repeat url('img/img.svg');
+  margin-right: 125px;
 }
 
 .main_title {
-  font: 45px/55px arial, helvetica, sans-serif;
+  font: 45px/55px 'gilroyblack', arial, helvetica, sans-serif;
   color: #ffffff;
+  margin: 0;
 }
 
 .main_subtitle {
-  font: 30px/37px arial, helvetica, sans-serif;
+  font: 30px/37px 'gilroyblack', arial, helvetica, sans-serif;
   color: #ffcc33;
+  margin: 0;
+  padding: 32px 230px 10px 0;
 }
 
 .main_text {
-  font: 20px/23px arial, helvetica, sans-serif;
+  font: 20px/23px 'gilroylight', arial, helvetica, sans-serif;
   color: #ffffff;
+  margin: 0;
+  padding: 0 83px 47px 0;
+}
+
+.main_button {
+  padding: 15px 23px;
+  background: #ffcc33;
+  text-decoration: none;
+  color: #3030c1;
+  font: 20px/24px arial, helvetica, sans-serif;
 }
