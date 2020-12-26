@@ -67,8 +67,7 @@
 }
 
 .image {
-  width: 398px;
-  height: 449px;
+  width: 100%;
 }
 
 .content_sutitle {
@@ -110,6 +109,8 @@
   left: 530px;
   font: 20px/23px 'ultralight', arial, helvetica, sans-serif;
   color: #878787;
+  border: 0;
+  outline: 0;
 }
 
 .row__additional {
@@ -122,6 +123,8 @@
   left: 530px;
   font: 20px/23px 'ultralight', arial, helvetica, sans-serif;
   color: #878787;
+  border: 0;
+  outline: 0;
 }
 
 .aside_button {
